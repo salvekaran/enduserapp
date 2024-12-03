@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet display_value="Incidents">21c6269e397330107f443c8c312f50a8</applet>
+        <background_color/>
+        <background_color_variable/>
+        <foreground_color/>
+        <foreground_color_variable/>
+        <icon display_value="My Incidents icon">bda6eca8519212107f444720226b7f72</icon>
+        <image/>
+        <name>My Incidents</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 13:05:56</sys_created_on>
+        <sys_id>bda6eca8519212107f444720226b7f75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Incidents</sys_name>
+        <sys_package display_value="End User Apps Mobile" source="x_snc_end_user_app">ed56ea1e397330107f443c8c312f5018</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="End User Apps Mobile">ed56ea1e397330107f443c8c312f5018</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_bda6eca8519212107f444720226b7f75</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 13:05:56</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+</record_update>

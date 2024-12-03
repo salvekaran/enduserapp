@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section">
+    <sys_sg_navigation_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <display_type>Basic</display_type>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_navigation_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 13:05:56</sys_created_on>
+        <sys_id>eda6eca8519212107f444720226b7f6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_package display_value="End User Apps Mobile" source="x_snc_end_user_app">ed56ea1e397330107f443c8c312f5018</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="End User Apps Mobile">ed56ea1e397330107f443c8c312f5018</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_eda6eca8519212107f444720226b7f6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 13:05:56</sys_updated_on>
+        <table/>
+        <title>Incidents</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_navigation_section>
+</record_update>

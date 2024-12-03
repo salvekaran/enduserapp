@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Incident)">29c6269e397330107f443c8c312f50b7</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete Incident Record</name>
+        <order/>
+        <parent>12e4d4e4515212107f444720226b7f7a</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 10:29:27</sys_created_on>
+        <sys_id>c36c89f0455212107f44317344efc1b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete Incident Record</sys_name>
+        <sys_package display_value="End User Apps Mobile" source="x_snc_end_user_app">ed56ea1e397330107f443c8c312f5018</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="End User Apps Mobile">ed56ea1e397330107f443c8c312f5018</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c36c89f0455212107f44317344efc1b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 10:29:27</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c36c89f0455212107f44317344efc1b9"/>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Incident)">f5c6669e397330107f443c8c312f501f</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>footer</location>
+        <name>Edit Incident Record</name>
+        <order/>
+        <parent>baa91c2c515212107f444720226b7f88</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-03 10:49:14</sys_created_on>
+        <sys_id>f4f01d38455212107f44317344efc185</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit Incident Record</sys_name>
+        <sys_package display_value="End User Apps Mobile" source="x_snc_end_user_app">ed56ea1e397330107f443c8c312f5018</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="End User Apps Mobile">ed56ea1e397330107f443c8c312f5018</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f4f01d38455212107f44317344efc185</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-03 10:49:14</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f4f01d38455212107f44317344efc185"/>
+</record_update>

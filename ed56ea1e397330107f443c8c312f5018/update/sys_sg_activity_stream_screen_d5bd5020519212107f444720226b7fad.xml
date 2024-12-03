@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_activity_stream_screen">
+    <sys_sg_activity_stream_screen action="INSERT_OR_UPDATE">
+        <add_additional_comment_button>true</add_additional_comment_button>
+        <add_attachment_button>true</add_attachment_button>
+        <add_work_note_button>true</add_work_note_button>
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>background</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="MS icon-Alert-Solid">17b9e51453337410409cddeeff7b12af</icon>
+        <name>Activity stream</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_activity_stream_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-02 12:26:52</sys_created_on>
+        <sys_id>d5bd5020519212107f444720226b7fad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activity stream</sys_name>
+        <sys_package display_value="End User Apps Mobile" source="x_snc_end_user_app">ed56ea1e397330107f443c8c312f5018</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="End User Apps Mobile">ed56ea1e397330107f443c8c312f5018</sys_scope>
+        <sys_update_name>sys_sg_activity_stream_screen_d5bd5020519212107f444720226b7fad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-02 12:26:52</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_activity_stream_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d5bd5020519212107f444720226b7fad"/>
+</record_update>
